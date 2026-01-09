@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Israhil Shaikh</h1>
 <h3 align="center">Data Analytics enthusiast focused on building practical dashboards and insights using Excel, SQL, and Power BI.</h3>
-<img align="right" alt="Coding" width="400" src="[https://cdnl.iconscout.com/lottie/premium/thumb/data-analytics-animation-gif-download-8111362.mp4](https://camo.githubusercontent.com/7b1c6ee1e799b9b3d95c2dac61e12d2224cf710cdb0b4957f50517cf530f98cc/68747470733a2f2f7777772e636178736f6c2e636f6d2f6173736574732f696d672f646174612d616e616c797369732e676966)">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7b1c6ee1e799b9b3d95c2dac61e12d2224cf710cdb0b4957f50517cf530f98cc/68747470733a2f2f7777772e636178736f6c2e636f6d2f6173736574732f696d672f646174612d616e616c797369732e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israhil10&label=Profile%20views&color=0e75b6&style=flat" alt="israhil10" /> </p>
 
 
