@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Shaikh Mohd Israhil</h1>
+<h1 align="center">Hi 👋, I'm Mohd Israhil Shaikh</h1>
 <h3 align="center">Data Analytics enthusiast focused on building practical dashboards and insights using Excel, SQL, and Power BI.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israhil10&label=Profile%20views&color=0e75b6&style=flat" alt="israhil10" /> </p>
