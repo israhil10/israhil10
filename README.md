@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mohd Israhil Shaikh</h1>
 <h3 align="center">Data Analytics enthusiast focused on building practical dashboards and insights using Excel, SQL, and Power BI.</h3>
-
+<img align="right" alt="Coding" width="400" src="https://cdnl.iconscout.com/lottie/premium/thumb/data-analytics-animation-gif-download-8111362.mp4">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=israhil10&label=Profile%20views&color=0e75b6&style=flat" alt="israhil10" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=israhil10" alt="israhil10" /></a> </p>
